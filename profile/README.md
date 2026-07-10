@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.png" alt="National Quality" width="100%"/>
+<img src="./banner.png" alt="National Quality" width="100%"/>
 
 # National Quality for Information Technology
 
